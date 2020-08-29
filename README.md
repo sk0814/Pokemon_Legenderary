@@ -1,0 +1,3 @@
+# Pokemon_Legenderary
+Since Childhood I am a big fan of pokemon as every other child is, if you are wondering what pokemon is, let me guide you to the pokemon world , it is a anime based on some fictional characters in a fantasy world where they were ranked based on #### power,  #### rarity,#### type,#### strength,#### battles,#### trophies won.  
+Apart from this stands a race called #### Legendary pokemon in which they are treated as gods in pokemon world. So in our project I have a data set which is downloaded from offical  website. In this we have to predict what Pokemon status is, is it legendary or not. and Algorithms are chosen based on that. 
